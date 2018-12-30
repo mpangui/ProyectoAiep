@@ -1,0 +1,14 @@
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\Acceder.dll.config
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\Acceder.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\Acceder.pdb
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\EntityFramework.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\EntityFramework.xml
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matias\source\repos\Escaner\Acceder\obj\Debug\Acceder.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Escaner\Acceder\obj\Debug\Acceder.csproj.CopyComplete
+C:\Users\Matias\source\repos\Escaner\Acceder\obj\Debug\Acceder.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\obj\Debug\Acceder.pdb
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\bin\Debug\NuGet.Core.dll
+C:\Users\Matias\source\repos\Escaner\Acceder\obj\Debug\Acceder.csprojAssemblyReference.cache
